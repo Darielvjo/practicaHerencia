@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2vZweaat/CXFPeVAIVMWnXLvMX9jIInpv5fXsvC8D5SuaJJkimVGCgHFdUCJ4a1fh6gf0/rHfN9Dd1BYeGt5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dariel\\source\\repos\\practicaherencia\\practicaherencia\\practicaherencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
